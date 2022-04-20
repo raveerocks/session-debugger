@@ -1,0 +1,12 @@
+@import './themes/style.default.css';
+@import './dimens.css';
+
+body {
+  margin: 0;
+  font-family: monospace;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

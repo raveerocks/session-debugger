@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: monospace;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.primary-colored {
+  background: #118402;
+  color: white;
+  border-color: #118402;
+}
+
+.primary-colored-highlight {
+  color: #ffd700;
+}
+
+.primary-dark-colored {
+  background: #025219;
+  color: whitesmoke;
+  border-color: #025219;
+}
+
+.secondary-colored {
+  background: white;
+  color: black;
+  border-color: #025219;
+}
+
+.off-colored {
+  background-color: whitesmoke;
+  color: #025219;
+}
+
+.primary-dark-wrapper {
+  box-shadow: 5px 5px 5px #025219;
+}

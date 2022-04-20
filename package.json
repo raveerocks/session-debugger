@@ -1,0 +1,27 @@
+{
+  "name": "session-debugger",
+  "version": "1.0.0",
+  "description": "A tool to debug common session issues",
+  "scripts": {
+    "clear_automate_data": "rm -rf data/logs/automate/* && rm -rf data/reports/automate/*",
+    "clear_app_automate_data": "rm -rf data/logs/app-automate/* && rm -rf data/reports/app-automate/*",
+    "check_data_usage": "du -h data",
+    "cli": "node cli/index.js",
+    "download": "npm run cli download",
+    "scan": "npm run cli scan",
+    "start:backend": "node backend/index.js",
+    "start:frontend": "cd frontend && npm start",
+    "start:app": "cd app && electron ."
+  },
+  "author": "Raveendra Tudangil",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "commander": "^9.1.0",
+    "cors": "^2.8.5",
+    "electron": "^18.0.4",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "winston": "^3.6.0"
+  }
+}

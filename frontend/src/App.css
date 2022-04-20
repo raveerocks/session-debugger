@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+#searchBarContainer {
+  padding: 2em;
+  align-items: center;
+  margin: 8px 0px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+
+.sectionWrapper {
+  padding: 2em;
+  align-items: center;
+  margin: 20px 0px;
+  background-color: whitesmoke;
+}

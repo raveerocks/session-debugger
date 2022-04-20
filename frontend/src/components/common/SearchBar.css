@@ -1,0 +1,18 @@
+.searchbar {
+  font-weight: bold;
+  width: 73%;
+}
+
+.searchButton {
+  font-weight: bold;
+}
+
+.catergory {
+  font-weight: bold;
+}
+
+.category-filter {
+  font-weight: bold;
+  float: right;
+  margin: 0px 8px;
+}

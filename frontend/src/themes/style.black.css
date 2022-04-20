@@ -1,0 +1,40 @@
+.primary-colored {
+  background: #4f5b62;
+  color: white;
+  border-color: #4f5b62;
+}
+
+.primary-colored-highlight {
+  color: #ffd700;
+  font-weight: bolder;
+}
+
+.primary-dark-colored {
+  background: #000a12;
+  color: whitesmoke;
+  border-color: #000a12;
+}
+
+.primary-dark-colored-highlight {
+  color: #ffd700;
+  font-weight: bolder;
+}
+
+.secondary-colored {
+  background: #4f5b62;
+  color: white;
+  border-color: #000a12;
+}
+
+.off-colored {
+  background-color: whitesmoke;
+  color: #000a12;
+}
+
+.primary-dark-wrapper {
+  box-shadow: 5px 5px 5px #000a12;
+}
+
+.black-shadow-wrapper {
+  box-shadow: 8px 8px 8px #000000;
+}

@@ -1,0 +1,40 @@
+.primary-colored {
+  background: #6200ea;
+  color: white;
+  border-color: #6200ea;
+}
+
+.primary-colored-highlight {
+  color: #ffd700;
+  font-weight: bolder;
+}
+
+.primary-dark-colored {
+  background: #0a00b6;
+  color: whitesmoke;
+  border-color: #0a00b6;
+}
+
+.primary-dark-colored-highlight {
+  color: #ffd700;
+  font-weight: bolder;
+}
+
+.secondary-colored {
+  background: white;
+  color: black;
+  border-color: #0a00b6;
+}
+
+.off-colored {
+  background-color: whitesmoke;
+  color: #01579b;
+}
+
+.primary-dark-wrapper {
+  box-shadow: 5px 5px 5px #0a00b6;
+}
+
+.black-shadow-wrapper {
+  box-shadow: 8px 8px 8px #000000;
+}

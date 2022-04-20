@@ -1,0 +1,6 @@
+frontend/node_modules/
+node_modules/
+data/logs/automate/**
+data/logs/app-automate/**
+data/reports/automate/**
+data/reports/app-automate/**
